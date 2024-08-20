@@ -1,4 +1,4 @@
-# Analizador_Ambiental
+# Sistema Integrado de Monitoreo y Alerta Ambiental para Espacios Residenciales, enfocado en la Calidad del Aire y La Seguridad
 
 
 El analizador del aire desarrollado por: Víctor Lau, María Celeste De León y Ana Sofía Herrera, es un intento de crear un dispositivo capaz de analizar el aire circundante en una vivienda, siendo este capaz de alertar a los habitantes de la misma de inconvenientes con la composición del aire que respiran.
